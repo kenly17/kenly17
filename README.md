@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Kenly Krisaguino
-- 👀 I’m interested in programing
 - 🌱 I’m currently learning c, java, and python
